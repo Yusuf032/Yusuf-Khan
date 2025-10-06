@@ -57,12 +57,13 @@ I enjoy working on both the **technical and management sides** of projects — f
 
 ---
 
-## 🔗 Contact
+## 🤝 Connect With Me
 
-**📞 Phone:** +91 8287532866  
-**📧 Email:** [khanyusuf0501@gmail.com](mailto:khanyusuf0501@gmail.com)  
-**💼 LinkedIn:** [Yusuf Khan](https://www.linkedin.com/in/yusuf-khan-54a89828a)  
-**📍 Address:**  New Delhi - 110025  
+<p align="left">
+  <a href="https://www.linkedin.com/in/yusuf-khan-54a89828a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yusuf%20Khan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
 
