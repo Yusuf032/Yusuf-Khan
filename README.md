@@ -23,14 +23,6 @@ I enjoy working on both the **technical and management sides** of projects — f
 
 ---
 
-## 🌐 Languages
-
-- English  
-- Hindi  
-- German  
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
