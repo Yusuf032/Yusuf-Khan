@@ -43,8 +43,8 @@ I enjoy working on both the **technical and management sides** of projects — f
 ## 🛠️ Technical Skills
 
 **Programming Languages:** Python, C, Java, HTML, CSS, JavaScript
-**Database:** MySQL  
-**Tools:** Jupyter Notebook, VS Studio, Matplotlib  
+**Database:** MySQL , MongoDB 
+**Tools:** Jupyter Notebook, VS Studio, Matplotlib, Intellij IDE
 **Soft Skills:** Management & Operations, Teamwork, Communication  
 
 ---
