@@ -63,6 +63,9 @@ I enjoy working on both the **technical and management sides** of projects — f
   <a href="https://www.linkedin.com/in/yusuf-khan-54a89828a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yusuf%20Khan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
+   <a href="mailto:yusufmohd0501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yusufmohd0501%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
 </p>
 
 ---
